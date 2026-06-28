@@ -1,0 +1,6 @@
+ml_venv/
+__pycache__/
+*.pyc
+output/
+.vscode/
+.env
