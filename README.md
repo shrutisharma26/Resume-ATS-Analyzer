@@ -35,8 +35,10 @@ streamlit run app/streamlit_app.py
 ```
 
 ## Screenshots
+<img width="956" height="490" alt="image" src="https://github.com/user-attachments/assets/e9beae2f-c39c-4909-a15f-5d5259053bbf" />
+<img width="959" height="489" alt="image" src="https://github.com/user-attachments/assets/21d1dd8b-f236-4ea3-98ca-f858e43e92cf" />
 
-(Add screenshots here)
+
 
 ## Future Improvements
 
